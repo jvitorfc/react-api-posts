@@ -1,4 +1,3 @@
-import { getMouseEventOptions } from '@testing-library/user-event/dist/utils'
 import './styles.css'
 
 export function TextInput({searchValue, handleChange}){
